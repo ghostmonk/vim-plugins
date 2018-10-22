@@ -1,3 +1,6 @@
 [submodule "pack/ghostmonk/start/vim-airline"]
 	path = pack/ghostmonk/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/ghostmonk/start/vim-eunuch"]
+	path = pack/ghostmonk/start/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch
