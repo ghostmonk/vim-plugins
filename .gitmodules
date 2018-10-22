@@ -10,3 +10,6 @@
 [submodule "pack/ghostmonk/start/emmet"]
 	path = pack/ghostmonk/start/emmet
 	url = https://github.com/mattn/emmet-vim
+[submodule "pack/ghostmonk/start/gitgutter"]
+	path = pack/ghostmonk/start/gitgutter
+	url = https://github.com/airblade/vim-gitgutter
