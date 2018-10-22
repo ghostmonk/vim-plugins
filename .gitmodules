@@ -7,3 +7,6 @@
 [submodule "pack/ghostmonk/start/nerdtree"]
 	path = pack/ghostmonk/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/ghostmonk/start/emmet"]
+	path = pack/ghostmonk/start/emmet
+	url = https://github.com/mattn/emmet-vim
