@@ -4,3 +4,6 @@
 [submodule "pack/ghostmonk/start/vim-eunuch"]
 	path = pack/ghostmonk/start/vim-eunuch
 	url = https://github.com/tpope/vim-eunuch
+[submodule "pack/ghostmonk/start/nerdtree"]
+	path = pack/ghostmonk/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
